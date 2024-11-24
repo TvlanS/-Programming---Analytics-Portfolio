@@ -29,3 +29,7 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 **Technology:** 
 
 Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
+
+**Media:**
+
+Link
