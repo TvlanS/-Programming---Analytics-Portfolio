@@ -11,7 +11,9 @@ This section enlists projects that i have worked on along with a brief describin
 
 ### Web-Based Utilities Equipment Data Management System
 
-**Goal:** Develop a system to digitilize data management system for utility equipments along with analytic features.
+**Goal:** 
+
+Develop a system to digitilize data management system for utility equipments along with analytic features.
 
 **Description:** 
 
@@ -24,4 +26,6 @@ User-Friendly Design: With its intuitive interface, users can easily input, orga
 Analytical Tools: Integrated features allow users to perform in-depth data analysis, uncovering trends and actionable insights to drive informed decisions.
 Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices and web browsers, the system ensures flexibility and convenience for users in the field or the office.
 
-**Technology:** Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
+**Technology:** 
+
+Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
