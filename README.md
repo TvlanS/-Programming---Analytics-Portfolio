@@ -23,3 +23,5 @@ Cost-Effectiveness: Developed to be a budget-friendly solution, making advanced 
 User-Friendly Design: With its intuitive interface, users can easily input, organize, and access data, minimizing training requirements and maximizing productivity.
 Analytical Tools: Integrated features allow users to perform in-depth data analysis, uncovering trends and actionable insights to drive informed decisions.
 Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices and web browsers, the system ensures flexibility and convenience for users in the field or the office.
+
+**Technology:** Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
