@@ -10,7 +10,10 @@ I am looking to further develop my repeitore in this field through real world ap
 This section enlists projects that i have worked on along with a brief describing of the projects.
 
 ### Web-Based Utilities Equipment Data Management System
-A web-based application designed to streamline the process of logging, reviewing, and analyzing utilities equipment data. This innovative platform is built to cater to the diverse needs of users, from field technicians to engineers, providing a comprehensive toolset for efficient data management.
+
+**Goal:** Develop a system to digitilize data management system for utility equipments along with analytic features.
+
+**Goal:** : A web-based application designed to streamline the process of logging, reviewing, and analyzing utilities equipment data. This innovative platform is built to cater to the diverse needs of users, from field technicians to engineers, providing a comprehensive toolset for efficient data management.
 
 Key features include:
 
@@ -18,5 +21,3 @@ Cost-Effectiveness: Developed to be a budget-friendly solution, making advanced 
 User-Friendly Design: With its intuitive interface, users can easily input, organize, and access data, minimizing training requirements and maximizing productivity.
 Analytical Tools: Integrated features allow users to perform in-depth data analysis, uncovering trends and actionable insights to drive informed decisions.
 Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices and web browsers, the system ensures flexibility and convenience for users in the field or the office.
-
-Tools employed in the development of the system include Django, a Python-based web framework that supports rapid and robust application development, and PostgreSQL as the database management system to ensure secure and efficient handling of data.
