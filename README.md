@@ -13,7 +13,8 @@ This section enlists projects that i have worked on along with a brief describin
 
 **Goal:** Develop a system to digitilize data management system for utility equipments along with analytic features.
 
-**Description:** :
+**Description:** 
+
 A web-based application designed to streamline the process of logging, reviewing, and analyzing utilities equipment data. This innovative platform is built to cater to the diverse needs of users, from field technicians to engineers, providing a comprehensive toolset for efficient data management.
 
 Key features include:
