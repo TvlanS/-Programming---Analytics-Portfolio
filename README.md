@@ -11,8 +11,10 @@ This section enlists projects that i have worked on along with a brief describin
 
 ### Web-Based Utilities Equipment Data Management System
 
+**Code**
+[``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
+
 **Goal:** 
-[`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
 Develop a system to digitilize data management system for utility equipments along with analytic features.
 
@@ -32,8 +34,7 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
 
 **Media:**
-
-Link
+[`Link`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
 ### SpaceX Falcon 9 stage 1 landing success prediction.
 
