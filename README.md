@@ -34,7 +34,8 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
 
 **Media:**
-[`Link`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
+
+[`System Pictures`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
 ### SpaceX Falcon 9 stage 1 landing success prediction.
 
