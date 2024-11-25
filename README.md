@@ -12,6 +12,7 @@ This section enlists projects that i have worked on along with a brief describin
 ### Web-Based Utilities Equipment Data Management System
 
 **Goal:** 
+[`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
 Develop a system to digitilize data management system for utility equipments along with analytic features.
 
