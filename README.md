@@ -31,6 +31,19 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 **Media:**[`System Images`](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
-### SpaceX Falcon 9 stage 1 landing success prediction.
+### Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
+
+**Goal:** Study the launch data of the payload launches and building a predictive model to anticipate the success rate of Space X Falcon 9 stage 1 landing.
+
+**Code**
+[``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
+
+**Description:** 
+
+This is a capstone project part of the IBM data science professional certificated. SpaceX offers rocket launches for $62 million at approximately 38% of its competitors’ price , thanks to its innovative first stage reuse capability for its Falcon 9 rockets.Predicting the successful landing of the first stage of a rocket can significantly impact the overall cost of a launch, which is valuable information for our company to bid against SpaceX. Hence this project aims to study the past launch data's and built a predictive model anticipate the sucess of stage 1 landing.
+
+In the first part of analysis , exploratory data analysis has been applied to study the number of launchest , payload masses and launch success rate on each of the launch sites and launch ordits on previous Nasa and Space X launchest. Subsequntly , more indept findings were extracted through database queries , followed with a study on the georpahical significants of each launch site using visual mapping. A das  
+
+
 
 
