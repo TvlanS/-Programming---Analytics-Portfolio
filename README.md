@@ -40,9 +40,15 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 **Description:** 
 
-This is a capstone project part of the IBM data science professional certificated. SpaceX offers rocket launches for $62 million at approximately 38% of its competitors’ price , thanks to its innovative first stage reuse capability for its Falcon 9 rockets.Predicting the successful landing of the first stage of a rocket can significantly impact the overall cost of a launch, which is valuable information for our company to bid against SpaceX. Hence this project aims to study the past launch data's and built a predictive model anticipate the sucess of stage 1 landing.
+This capstone project is part of the IBM Data Science Professional Certificate program. SpaceX revolutionized the rocket launch industry by offering launches for $62 million, approximately 38% less than its competitors, due to its innovative first-stage reuse capability for Falcon 9 rockets. Predicting the successful landing of a rocket's first stage is critical as it directly impacts the overall cost of a launch. This information is invaluable for our company to make competitive bids against SpaceX.
 
-In the first part of analysis , exploratory data analysis has been applied to study the number of launchest , payload masses and launch success rate on each of the launch sites and launch ordits on previous Nasa and Space X launchest. Subsequntly , more indept findings were extracted through database queries , followed with a study on the georpahical significants of each launch site using visual mapping. A das  
+The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
+
+In the initial phase of the analysis, exploratory data analysis (EDA) was conducted to examine the number of launches, payload masses, and launch success rates across various launch sites and orbital trajectories based on historical NASA and SpaceX data. Subsequently, deeper insights were extracted through database queries, followed by an exploration of the geographical significance of each launch site using visual mapping techniques. Additionally, an interactive dashboard was developed to present these findings in an intuitive and accessible manner. Finally classification models are tested to build a predictive model to anticipate the success of the stage 1 landing.
+
+**Technology:** Python, Numpy , Pandas , Plotly, Foliuem , mySQL, Seaborn , Scikit.
+
+
 
 
 
