@@ -14,7 +14,7 @@ This section enlists projects that i have worked on along with a brief describin
 **Code**
 [``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
 
-**Goal:** Develop a system to digitilize data management system for utility equipments along with analytic features.
+**Objective:** Develop a system to digitilize data management system for utility equipments along with analytic features.
 
 **Description:** 
 
@@ -36,7 +36,7 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 **Goal:** Study the launch data of the payload launches and building a predictive model to anticipate the success rate of Space X Falcon 9 stage 1 landing.
 
 **Code**
-[``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
+[`Repo Link`](https://github.com/TvlanS/SpaceX-launch-analysis-and-predictive-model/tree/main/2.0_Final_Code)
 
 **Description:** 
 
