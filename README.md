@@ -11,9 +11,6 @@ This section enlists projects that i have worked on along with a brief describin
 
 ### 1) Web-Based Utilities Equipment Data Management System
 
-**Code**
-[``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
-
 **Objective:** Develop a system to digitilize data management system for utility equipments along with analytic features.
 
 **Description:** 
@@ -31,14 +28,14 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 **Technology:** Python, Django, Numpy, Plotly, HTML, Bootstrap, postgreSQL.
 
+**Code**
+[``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
+
 
 
 ### 2) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
 
-**Goal:** Study the launch data of the payload launches and building a predictive model to anticipate the success rate of Space X Falcon 9 stage 1 landing.
-
-**Code:**
-[`Repo Link`](https://github.com/TvlanS/SpaceX-launch-analysis-and-predictive-model/tree/main/2.0_Final_Code)
+Objective: The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
 
 **Description:** 
 
@@ -51,6 +48,10 @@ In the initial phase of the analysis, exploratory data analysis (EDA) was conduc
 **Report Summary:** [`Repo Link`](https://github.com/TvlanS/SpaceX-launch-analysis-and-predictive-model/blob/main/SpaceX_Summary_Slides.pdf)
 
 **Technology:** Python, Numpy , Pandas , Plotly, Foliuem , mySQL, Seaborn , Scikit.
+
+**Code:**
+[`Repo Link`](https://github.com/TvlanS/SpaceX-launch-analysis-and-predictive-model/tree/main/2.0_Final_Code)
+
 
 
 
