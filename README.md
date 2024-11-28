@@ -9,7 +9,7 @@ I am looking to further develop my repeitore in this field through real world ap
 # Projects
 This section enlists projects that i have worked on along with a brief describing of the projects.
 
-### Web-Based Utilities Equipment Data Management System
+###1) Web-Based Utilities Equipment Data Management System
 
 **Code**
 [``](https://drive.google.com/drive/folders/1qh-T98K3qM8g25jD1HLh8xJLMVQ0Hfx_?usp=sharing)
@@ -33,7 +33,7 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 
 
-### Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
+###2) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
 
 **Goal:** Study the launch data of the payload launches and building a predictive model to anticipate the success rate of Space X Falcon 9 stage 1 landing.
 
