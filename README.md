@@ -1,6 +1,6 @@
 # Tvlan's -Programming & Analytics Portfolio
 # About
-Hi there, this repo serves as a repository to showcase of my skills, collobrate, and track my progress regarding my data analytics and programming-related projects.
+Hi there, this repo serves as a repository to showcase my skills, collobrate, and track my progress regarding my data analytics and programming-related projects.
 
 # Projects
 This section enlists projects that i have worked on along with a brief describing of the projects.
