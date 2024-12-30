@@ -38,8 +38,6 @@ This capstone project is part of the IBM Data Science Professional Certificate p
 
 The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
 
-In the initial phase of the analysis, exploratory data analysis (EDA) was conducted to examine the number of launches, payload masses, and launch success rates across various launch sites and orbital trajectories based on historical NASA and SpaceX data. Subsequently, deeper insights were extracted through database queries, followed by an exploration of the geographical significance of each launch site using visual mapping techniques. Additionally, an interactive dashboard was developed to present these findings in an intuitive and accessible manner. Finally classification models are tested to build a predictive model to anticipate the success of the stage 1 landing. A summary on the findings is provided under the report summary section.
-
 **Report Summary:** [`Repo Link`](https://github.com/TvlanS/SpaceX-launch-analysis-and-predictive-model/blob/main/SpaceX_Summary_Slides.pdf)
 
 **Technology:** Python, Numpy , Pandas , Plotly, Foliuem , mySQL, Seaborn , Scikit.
