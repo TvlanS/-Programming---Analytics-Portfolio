@@ -5,7 +5,7 @@ Hi there, this repo serves as a repository to showcase my skills, collobrate, an
 # Projects
 This section enlists projects that i have worked on along with a brief describing of the projects.
 
-### 1) Sorting Hub Performance (SQL)
+### 1) Delivery Hub Performance (SQL)
 
 **Objective:** Perform analysis on the performance of delivery hubs at East Malaysia based on the number of parcel processed at each hub for Company Z.
 
