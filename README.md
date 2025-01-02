@@ -5,7 +5,21 @@ Hi there, this repo serves as a repository to showcase my skills, collobrate, an
 # Projects
 This section enlists projects that i have worked on along with a brief describing of the projects.
 
-### 1) Web-Based Utilities Equipment Data Management System
+### 1) Sorting Hub Performance (SQL)
+
+**Objective:** Perform analysis on the performance of delivery hubs at East Malaysia based on the number of parcel processed at each hub for Company Z.
+
+**Description:** 
+
+Company Z has provided 4 database which are HUBS , ORDERS , SHIPPERS and SCANS . Analysis is to be performed based on the given database from 1th Dec 2024 to 25th Dec 2024. Additional , queries such as exclusion of test scans and orders of results are provided by company Z.
+
+**Technology:** Mysql.
+
+**Code :**[`Repo Link`](https://github.com/TvlanS/Sorting-Hub-Performance)
+
+
+
+### 2) Web-Based Utilities Equipment Data Management System
 
 **Objective:** Develop a system to digitilize data management system for utility equipments along with analytic features.
 
@@ -28,7 +42,7 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 
 
-### 2) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
+### 3) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
 
 Objective: The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
 
