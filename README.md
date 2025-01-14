@@ -63,7 +63,7 @@ My endeavor to learn a new language has led to the realization that learning new
 **Code :**[`Repo Link`](https://github.com/TvlanS/Automated-Image-Scraping-Software/tree/main)
 
 
-### 4) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
+### 4) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction (Data Analytics).
 
 Objective: The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
 
