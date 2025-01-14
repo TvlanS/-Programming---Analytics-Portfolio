@@ -5,6 +5,7 @@ Hi there, this repo serves as a repository to showcase my skills, collobrate, an
 # Projects
 This section enlists projects that i have worked on along with a brief describing of the projects.
 
+
 ### 1) Delivery Hub Performance (SQL)
 
 **Objective:** Perform analysis on the performance of delivery hubs at East Malaysia based on the number of parcel processed at each hub for Company Z.
@@ -18,8 +19,7 @@ Company Z has provided 4 database which are HUBS , ORDERS , SHIPPERS and SCANS .
 **Code :**[`Repo Link`](https://github.com/TvlanS/Sorting-Hub-Performance)
 
 
-
-### 2) Web-Based Utilities Equipment Data Management System
+### 2) Web-Based Utilities Equipment Data Management and Analysis System
 
 **Objective:** Develop a system to digitilize data management system for utility equipments along with analytic features.
 
@@ -40,9 +40,30 @@ Cross-Platform Compatibility: Designed to work seamlessly on both mobile devices
 
 **Code :**[`Repo Link`](https://github.com/TvlanS/Web-Based-Utilities-Equipment-Data-Management-System)
 
+### 3) Automated Image Scraping Software
+
+**Objective:** Develop a one-click system to scrape image, resize it, and copy it to the clipboard based on the query.
+
+**Description:** 
+
+My endeavor to learn a new language has led to the realization that learning new words is more effective when they are associated with a relevant image. However, I quickly realized that multitasking between searching for an image on the browser and learning the word simultaneously is inefficient in terms of cognitive economy. On top of that, the copied image needs to be resized manually to a consistent size, which can become tedious. As a result, I conceptualized a one-click solution that would automate the process of selecting, copying, and resizing the image, allowing me to focus more on learning.
+
+**Key features include:**
+1.	An intuitive UI.
+2.	A small window that allows for a seamless transition to other software.
+3.	Automatic image resizing.
+4.	Sticks to the display, eliminating the need to toggle the software back to the window while multitasking.
+5.	Automatically positions itself in the corner of the screen, avoiding visual clutter.
 
 
-### 3) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
+**Media:**[`System Images`](https://github.com/TvlanS/Web-Based-Utilities-Equipment-Data-Management-System/tree/main/Media)
+
+**Technology:** Python ,BingImage API ,Tkinter .
+
+**Code :**[`Repo Link`](https://github.com/TvlanS/Web-Based-Utilities-Equipment-Data-Management-System)
+
+
+### 4) Analysing payload launch data and prediciting SpaceX Falcon 9 stage 1 landing success prediction.
 
 Objective: The objective of this project is to analyze historical launch data and build a predictive model to anticipate the success of first-stage landings, enabling more accurate cost forecasting and strategic decision-making.
 
